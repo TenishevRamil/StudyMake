@@ -1,2 +1,5 @@
-!Kazino-Royal.cpp
-Kazino-Royal*
+kazino
+kazino-dbg
+*.o
+*.tmp
+*.swp
